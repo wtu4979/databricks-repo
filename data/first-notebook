@@ -28,3 +28,7 @@ df.show()
 
 # COMMAND ----------
 
+df.select("Name").show()
+
+# COMMAND ----------
+
